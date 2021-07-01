@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Design_Project
+namespace SERIAL_COMMINICATION_BASE_FORM
 {
     static class Program
     {

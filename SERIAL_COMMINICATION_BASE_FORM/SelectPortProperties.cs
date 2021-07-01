@@ -2,7 +2,7 @@
 using System.Windows.Forms;
 using System.IO.Ports;
 
-namespace Design_Project
+namespace SERIAL_COMMINICATION_BASE_FORM
 {
     public partial class SelectPortProperties : Form
     {

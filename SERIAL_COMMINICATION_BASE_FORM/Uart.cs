@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.IO.Ports;
 using System.Threading;
 
-namespace Design_Project
+namespace SERIAL_COMMINICATION_BASE_FORM
 {
     public class Uart
     {

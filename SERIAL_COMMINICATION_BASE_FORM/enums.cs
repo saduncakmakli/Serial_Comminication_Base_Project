@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Design_Project
+namespace SERIAL_COMMINICATION_BASE_FORM
 {
     public enum CommunicationStrings
     {

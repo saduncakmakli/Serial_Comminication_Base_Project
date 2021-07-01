@@ -1,4 +1,4 @@
-﻿namespace Design_Project
+﻿namespace SERIAL_COMMINICATION_BASE_FORM
 {
     partial class SelectPortProperties
     {
